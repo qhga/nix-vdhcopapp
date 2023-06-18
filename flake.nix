@@ -103,7 +103,7 @@
           homepage = "https://www.downloadhelper.net/";
           license = licenses.gpl2;
           platforms = nodejs.meta.platforms;
-          maintainers = with maintainers; [ wolfangaukang ];
+          maintainers = with maintainers; [ wolfangaukang qhga ];
         };
       };
   };
